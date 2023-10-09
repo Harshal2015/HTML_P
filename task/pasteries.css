@@ -3,7 +3,7 @@ body{
 }
 .container {
     max-width :1100px;
-    padding: 40 100px;
+    padding: 40px 100px;
     margin: 0 auto;
 }
 .flex{
@@ -32,11 +32,11 @@ p {
     border: none;
     border-radius: 30px;
     margin-right: 30px;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 50px;
 }
 .padding {
-    padding: 10px 14px;
+    padding: 30px 30px;
 }
 .center {
     margin-left: 90px;
