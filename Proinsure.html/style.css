@@ -96,4 +96,36 @@ body {
     text-transform: uppercase;
     text-decoration: none;
 }
+/* Sections */
+        /* FIRST */
+        .first {
+            background-color: #6a6a6b;
+            padding: 60px 0;
+            color: #ffffff;
+            margin-top: 88px;
+        }
+        .line {
+            width: 200px;
+            height: 5px;
+            background-color: #020105;
+        }
+        .first-heading {
+            font-size: 56px;
+            margin-top: 16px;
+            line-height: 1.1;
+        }
+        .first-text {
+            color: #bcb8c4;
+            margin: 32px 0;
+            font-size: 18px;
+            font-family: 'DM Sans', sans-serif;
+        }
+        .first-img {
+            margin-bottom: 160px;
+        }
+        .img {
+            width: 700px;
+        }
+
+          
 
