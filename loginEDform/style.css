@@ -2,18 +2,20 @@ body{
     background-color:rgb(54, 56, 52);
 }
 .p{
-    margin: 24px 600px;
-    padding: 15px 0px 0px;
+    margin: 25px 600px;
+    padding: 9px 0px 0px;
     background-color: rgb(170, 23, 23);
     text-align: center;
     color: aliceblue;
-    height: 31px;
+    height: 33px;
     width: 295px;
   }
 img{
     display: block;
-  margin-left: 600px;
+  margin-left: 670px;
   margin-top: 120px;
+  height: 75px;
+  width: 143px;
   
 }
 .list{
